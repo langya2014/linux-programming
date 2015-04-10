@@ -1,0 +1,20 @@
+total 60
+-rw-rw-r-- 1 xirujun xirujun   98  4月  8 15:44 2.c
+-rw-rw-r-- 1 xirujun xirujun 2300  4月  8 16:29 2.o
+-rw-rw-r-- 1 xirujun xirujun   94  4月  8 15:44 3.c
+-rw-rw-r-- 1 xirujun xirujun 2292  4月  8 16:29 3.o
+-rw-rw-r-- 1 xirujun xirujun    0  4月  8 15:32 a.h
+-rw-rw-r-- 1 xirujun xirujun    0  4月  8 15:32 b.h
+-rw-rw-r-- 1 xirujun xirujun    0  4月  8 15:32 c.h
+-rw-rw-r-- 1 xirujun xirujun    0  4月 10 10:09 lsoutput.txt
+-rw-rw-r-- 1 xirujun xirujun  132  4月  8 15:59 main.c
+-rw-rw-r-- 1 xirujun xirujun 2036  4月  8 16:29 main.o
+-rw-rw-r-- 1 xirujun xirujun  145  4月  8 15:48 Makefile1
+-rw-rw-r-- 1 xirujun xirujun  400  4月  8 15:57 Makefile2
+-rw-rw-r-- 1 xirujun xirujun  707  4月  8 16:12 Makefile3
+-rw-rw-r-- 1 xirujun xirujun  666  4月  8 16:28 Makefile5
+-rwxrwxr-x 1 xirujun xirujun 8789  4月  8 16:29 myapp
+-rw-rw-r-- 1 xirujun xirujun 4808  4月  8 16:29 mylib.a
+  PID TTY          TIME CMD
+ 2849 pts/0    00:00:00 bash
+ 3099 pts/0    00:00:00 ps
