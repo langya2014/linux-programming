@@ -1,0 +1,301 @@
+listen socket3
+thread 0x139934220396288  is waitting
+thread 0x139934212003584  is waitting
+thread 0x139934203610880  is waitting
+thread 0x139934195218176  is waitting
+thread 0x139934186825472  is waitting
+too many thread, 0x139934237181696 will exit
+too many thread, 0x139934178432768 will exit
+too many thread, 0x139934170040064 will exit
+too many thread, 0x139934161647360 will exit
+too many thread, 0x139934153254656 will exit
+too many thread, 0x139934144861952 will exit
+too many thread, 0x139934136469248 will exit
+too many thread, 0x139934245574400 will exit
+too many thread, 0x139934128076544 will exit
+too many thread, 0x139934119683840 will exit
+too many thread, 0x139934111291136 will exit
+too many thread, 0x139934102898432 will exit
+too many thread, 0x139934094505728 will exit
+too many thread, 0x139934086113024 will exit
+too many thread, 0x139934077720320 will exit
+too many thread, 0x139934069327616 will exit
+too many thread, 0x139934060934912 will exit
+too many thread, 0x139934052542208 will exit
+too many thread, 0x139934253967104 will exit
+too many thread, 0x139934044149504 will exit
+too many thread, 0x139934228788992 will exit
+too many thread, 0x139934035756800 will exit
+too many thread, 0x139934027364096 will exit
+too many thread, 0x139934018971392 will exit
+too many thread, 0x139934010578688 will exit
+too many thread, 0x139934002185984 will exit
+too many thread, 0x139933993793280 will exit
+too many thread, 0x139933985400576 will exit
+too many thread, 0x139933977007872 will exit
+too many thread, 0x139933968615168 will exit
+too many thread, 0x139933960222464 will exit
+too many thread, 0x139933951829760 will exit
+too many thread, 0x139933943437056 will exit
+too many thread, 0x139933935044352 will exit
+too many thread, 0x139933926651648 will exit
+too many thread, 0x139933918258944 will exit
+too many thread, 0x139934262359808 will exit
+too many thread, 0x139933909866240 will exit
+too many thread, 0x139933901473536 will exit
+too many thread, 0x139933893080832 will exit
+too many thread, 0x139933725226752 will exit
+too many thread, 0x139933800761088 will exit
+too many thread, 0x139933750404864 will exit
+too many thread, 0x139933851117312 will exit
+too many thread, 0x139933733619456 will exit
+too many thread, 0x139933859510016 will exit
+too many thread, 0x139933809153792 will exit
+too many thread, 0x139933867902720 will exit
+too many thread, 0x139933825939200 will exit
+too many thread, 0x139933817546496 will exit
+too many thread, 0x139933767190272 will exit
+too many thread, 0x139933842724608 will exit
+too many thread, 0x139933834331904 will exit
+too many thread, 0x139933792368384 will exit
+too many thread, 0x139933783975680 will exit
+too many thread, 0x139933884688128 will exit
+too many thread, 0x139933876295424 will exit
+too many thread, 0x139933775582976 will exit
+too many thread, 0x139933758797568 will exit
+too many thread, 0x139933742012160 will exit
+too many thread, 0x139933716834048 will exit
+too many thread, 0x139934340749056 will exit
+too many thread, 0x139933515409152 will exit
+too many thread, 0x139933414696704 will exit
+too many thread, 0x139933590943488 will exit
+too many thread, 0x139933465052928 will exit
+too many thread, 0x139933540587264 will exit
+too many thread, 0x139933490231040 will exit
+too many thread, 0x139933641299712 will exit
+too many thread, 0x139933523801856 will exit
+too many thread, 0x139933498623744 will exit
+too many thread, 0x139933423089408 will exit
+too many thread, 0x139933406304000 will exit
+too many thread, 0x139933708441344 will exit
+too many thread, 0x139933649692416 will exit
+too many thread, 0x139933599336192 will exit
+too many thread, 0x139933439874816 will exit
+too many thread, 0x139933691655936 will exit
+too many thread, 0x139933700048640 will exit
+too many thread, 0x139933683263232 will exit
+too many thread, 0x139933658085120 will exit
+too many thread, 0x139933616121600 will exit
+too many thread, 0x139933607728896 will exit
+too many thread, 0x139933557372672 will exit
+too many thread, 0x139933481838336 will exit
+too many thread, 0x139933473445632 will exit
+too many thread, 0x139933448267520 will exit
+too many thread, 0x139933632907008 will exit
+too many thread, 0x139933624514304 will exit
+too many thread, 0x139933582550784 will exit
+too many thread, 0x139933574158080 will exit
+too many thread, 0x139933456660224 will exit
+too many thread, 0x139933431482112 will exit
+too many thread, 0x139933674870528 will exit
+too many thread, 0x139933666477824 will exit
+too many thread, 0x139933565765376 will exit
+too many thread, 0x139933548979968 will exit
+too many thread, 0x139933532194560 will exit
+too many thread, 0x139933507016448 will exit
+too many thread, 0x139933397911296 will exit
+too many thread, 0x139933389518592 will exit
+too many thread, 0x139933381125888 will exit
+too many thread, 0x139933372733184 will exit
+too many thread, 0x139933364340480 will exit
+too many thread, 0x139933355947776 will exit
+too many thread, 0x139933347555072 will exit
+too many thread, 0x139933339162368 will exit
+too many thread, 0x139933330769664 will exit
+too many thread, 0x139933322376960 will exit
+too many thread, 0x139933313984256 will exit
+too many thread, 0x139933305591552 will exit
+too many thread, 0x139933297198848 will exit
+too many thread, 0x139933288806144 will exit
+too many thread, 0x139933280413440 will exit
+too many thread, 0x139933272020736 will exit
+too many thread, 0x139933263628032 will exit
+too many thread, 0x139933255235328 will exit
+too many thread, 0x139933246842624 will exit
+too many thread, 0x139933238449920 will exit
+too many thread, 0x139933230057216 will exit
+too many thread, 0x139933221664512 will exit
+too many thread, 0x139933213271808 will exit
+too many thread, 0x139933204879104 will exit
+too many thread, 0x139933196486400 will exit
+too many thread, 0x139933188093696 will exit
+too many thread, 0x139933179700992 will exit
+too many thread, 0x139933171308288 will exit
+too many thread, 0x139933162915584 will exit
+too many thread, 0x139933154522880 will exit
+too many thread, 0x139933146130176 will exit
+too many thread, 0x139933137737472 will exit
+too many thread, 0x139933129344768 will exit
+too many thread, 0x139933120952064 will exit
+too many thread, 0x139933112559360 will exit
+too many thread, 0x139933104166656 will exit
+too many thread, 0x139933095773952 will exit
+too many thread, 0x139933087381248 will exit
+too many thread, 0x139933078988544 will exit
+too many thread, 0x139933070595840 will exit
+too many thread, 0x139933062203136 will exit
+too many thread, 0x139933053810432 will exit
+too many thread, 0x139933045417728 will exit
+too many thread, 0x139933037025024 will exit
+too many thread, 0x139933028632320 will exit
+too many thread, 0x139933020239616 will exit
+too many thread, 0x139933011846912 will exit
+too many thread, 0x139933003454208 will exit
+too many thread, 0x139932995061504 will exit
+too many thread, 0x139934349141760 will exit
+too many thread, 0x139932986668800 will exit
+too many thread, 0x139932978276096 will exit
+too many thread, 0x139932969883392 will exit
+too many thread, 0x139932961490688 will exit
+too many thread, 0x139932953097984 will exit
+too many thread, 0x139932944705280 will exit
+too many thread, 0x139932936312576 will exit
+too many thread, 0x139932927919872 will exit
+too many thread, 0x139932919527168 will exit
+too many thread, 0x139932911134464 will exit
+too many thread, 0x139932902741760 will exit
+too many thread, 0x139932894349056 will exit
+too many thread, 0x139932885956352 will exit
+too many thread, 0x139932877563648 will exit
+too many thread, 0x139932869170944 will exit
+too many thread, 0x139932860778240 will exit
+too many thread, 0x139932852385536 will exit
+too many thread, 0x139932843992832 will exit
+too many thread, 0x139932835600128 will exit
+too many thread, 0x139932827207424 will exit
+too many thread, 0x139932818814720 will exit
+too many thread, 0x139932810422016 will exit
+too many thread, 0x139932802029312 will exit
+too many thread, 0x139932793636608 will exit
+too many thread, 0x139932785243904 will exit
+too many thread, 0x139932776851200 will exit
+too many thread, 0x139932768458496 will exit
+too many thread, 0x139932760065792 will exit
+too many thread, 0x139932751673088 will exit
+too many thread, 0x139932743280384 will exit
+too many thread, 0x139932734887680 will exit
+too many thread, 0x139932726494976 will exit
+too many thread, 0x139932718102272 will exit
+too many thread, 0x139932709709568 will exit
+too many thread, 0x139932701316864 will exit
+too many thread, 0x139932692924160 will exit
+too many thread, 0x139932684531456 will exit
+too many thread, 0x139932676138752 will exit
+too many thread, 0x139932667746048 will exit
+too many thread, 0x139932659353344 will exit
+too many thread, 0x139932650960640 will exit
+too many thread, 0x139932642567936 will exit
+too many thread, 0x139932634175232 will exit
+too many thread, 0x139932625782528 will exit
+too many thread, 0x139932617389824 will exit
+too many thread, 0x139932608997120 will exit
+too many thread, 0x139932600604416 will exit
+too many thread, 0x139932592211712 will exit
+too many thread, 0x139932583819008 will exit
+too many thread, 0x139932575426304 will exit
+too many thread, 0x139932567033600 will exit
+too many thread, 0x139932558640896 will exit
+too many thread, 0x139932550248192 will exit
+too many thread, 0x139932541855488 will exit
+too many thread, 0x139932533462784 will exit
+too many thread, 0x139932525070080 will exit
+too many thread, 0x139932516677376 will exit
+too many thread, 0x139932508284672 will exit
+too many thread, 0x139932499891968 will exit
+too many thread, 0x139932491499264 will exit
+too many thread, 0x139932483106560 will exit
+too many thread, 0x139932474713856 will exit
+too many thread, 0x139932466321152 will exit
+too many thread, 0x139932457928448 will exit
+too many thread, 0x139932449535744 will exit
+too many thread, 0x139932441143040 will exit
+too many thread, 0x139932432750336 will exit
+too many thread, 0x139932424357632 will exit
+too many thread, 0x139932415964928 will exit
+too many thread, 0x139932407572224 will exit
+too many thread, 0x139932399179520 will exit
+too many thread, 0x139932390786816 will exit
+too many thread, 0x139932382394112 will exit
+too many thread, 0x139932374001408 will exit
+too many thread, 0x139932365608704 will exit
+too many thread, 0x139932357216000 will exit
+too many thread, 0x139932348823296 will exit
+too many thread, 0x139932340430592 will exit
+too many thread, 0x139932332037888 will exit
+too many thread, 0x139932323645184 will exit
+accept an client
+in datahandle: {"password":"147258369","username":"Langya","typecode":20}
+in login function
+login success!
+update users set socket='22268000' where username='Langya'
+username: Langya
+too many thread, 0x139934220396288 will exit
+send data:{"typecode":30}
+
+a client disconnect
+update users set socket=-1 where username='Langya'
+update users' socket success!
+setsocket re:0
+accept an client
+in datahandle: {"username":"Langya","classname":"ImageProcessing","typecode":60}
+select * from Langya_class where classname='ImageProcessing'
+query class information success!
+ImageProcessing 2 2
+thread 0x139934212003584  is waitting
+send data:{"attendace":2,"classname":"ImageProcessing","roll_call":2,"typecode":61,"username":"Langya"}
+
+a client disconnect
+accept an client
+in datahandle: {"password":"11111","username":"1122","typecode":20}
+in login function
+login success!
+update users set socket='22268000' where username='1122'
+username: 1122
+thread 0x139934203610880  is waitting
+send data:{"typecode":30}
+
+a client disconnect
+update users set socket=-1 where username='1122'
+update users' socket success!
+setsocket re:0
+accept an client
+in datahandle: {"username":"1122","classname":"ImageProcessing","typecode":60}
+select * from 1122_class where classname='ImageProcessing'
+query class information success!
+ImageProcessing 2 1
+thread 0x139934195218176  is waitting
+send data:{"attendace":1,"classname":"ImageProcessing","roll_call":2,"typecode":61,"username":"1122"}
+
+a client disconnect
+accept an client
+in datahandle: {"typecode":20,"username":"zy","password":"zy"}
+in login function
+login success!
+update users set socket='22268000' where username='zy'
+username: zy
+thread 0x139934186825472  is waitting
+send data:{"typecode":30}
+
+a client disconnect
+update users set socket=-1 where username='zy'
+update users' socket success!
+setsocket re:0
+accept an client
+in datahandle: {"typecode":60,"username":"zy","classname":"ImageProcessing"}
+select * from zy_class where classname='ImageProcessing'
+query class information success!
+ImageProcessing 2 0
+thread 0x139934212003584  is waitting
+send data:{"attendace":0,"classname":"ImageProcessing","roll_call":2,"typecode":61,"username":"zy"}
+
+a client disconnect

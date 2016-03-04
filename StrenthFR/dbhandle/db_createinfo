@@ -1,0 +1,97 @@
+xirujun@ubuntu:~$ mysql -u root -p
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 37
+Server version: 5.5.41-0ubuntu0.12.04.1 (Ubuntu)
+
+Copyright (c) 2000, 2014, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> create database VSimle_db character set gbk;
+Query OK, 1 row affected (0.02 sec)
+
+mysql> use VSimle_db
+Database changed
+mysql> < ~/mysql/informationtable.sql
+    -> ;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '< ~/mysql/informationtable.sql' at line 1
+mysql> create table users
+    -> (
+    ->         id int unsigned not null auto_increment,
+    ->         username char(16) not null primary key,
+    ->         sex char(8) not null,
+    ->         age smallint unsigned not null,
+    ->         city char(12) not null,
+    ->         usertype char(12) not null,
+    ->         facetype char(12) not null,
+    ->         tel char(13) not null,
+    ->         mail char(24) null default "-",
+    ->         password char(24) not null,
+    ->         signature char(32) null default "-",
+    ->         portrait longblob null default "-"
+    -> );
+ERROR 1101 (42000): BLOB/TEXT column 'portrait' can't have a default value
+mysql> show tables;
+Empty set (0.00 sec)
+
+mysql> create table users
+    -> (
+    ->         id int unsigned not null auto_increment,
+    ->         username char(16) not null primary key,
+    ->         sex char(8) not null,
+    ->         age smallint unsigned not null,
+    ->         city char(12) not null,
+    ->         usertype char(12) not null,
+    ->         facetype char(12) not null,
+    ->         tel char(13) not null,
+    ->         mail char(24) null default "-",
+    ->         password char(24) not null,
+    ->         signature char(32) null default "-",
+    ->         portrait longblob 
+    -> );
+ERROR 1075 (42000): Incorrect table definition; there can be only one auto column and it must be defined as a key
+mysql> create table users
+    -> (
+    ->         id int unsigned not null auto_increment primary key,
+    ->         username char(16) not null,
+    ->         sex char(8) not null,
+    ->         age smallint unsigned not null,
+    ->         city char(12) not null,
+    ->         usertype char(12) not null,
+    ->         facetype char(12) not null,
+    ->         tel char(13) not null,
+    ->         mail char(24) null default "-",
+    ->         password char(24) not null,
+    ->         signature char(32) null default "-",
+    ->         portrait longblob 
+    -> );
+Query OK, 0 rows affected (0.13 sec)
+
+mysql> show tables;
++---------------------+
+| Tables_in_VSimle_db |
++---------------------+
+| users               |
++---------------------+
+1 row in set (0.00 sec)
+
+mysql> insert into users values(1, "hubian", "female", 23, "chengdu", "ordinary", "round", "15812345678", NULL, "who");
+ERROR 1136 (21S01): Column count doesn't match value count at row 1
+mysql> insert into users values(1, "hubian", "female", 23, "chengdu", "ordinary", "round", "15812345678", NULL, "who", NULL, NULL);
+Query OK, 1 row affected (0.03 sec)
+
+mysql> select * from users;
++----+----------+--------+-----+---------+----------+----------+-------------+------+----------+-----------+----------+
+| id | username | sex    | age | city    | usertype | facetype | tel         | mail | password | signature | portrait |
++----+----------+--------+-----+---------+----------+----------+-------------+------+----------+-----------+----------+
+|  1 | hubian   | female |  23 | chengdu | ordinary | round    | 15812345678 | NULL | who      | NULL      | NULL     |
++----+----------+--------+-----+---------+----------+----------+-------------+------+----------+-----------+----------+
+1 row in set (0.35 sec)
+
+mysql> 
+

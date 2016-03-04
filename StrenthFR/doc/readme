@@ -1,0 +1,32 @@
+install libevent:
+1.先用：ls -al /usr/lib | grep libevent  查看是否已安装，如果已安装且版本低于1.3，则先通过：rpm -e libevent —nodeps 进行卸载。
+2.下载libevent安装包：libevent-1.4.13-stable.tar.gz，然后解压。
+3.切换到解压后的 libevent 主目录：cd libevent-1.4.13-stable
+4.依次执行：
+    ./configure –prefix=/usr （或 ./configure --program-prefix=/usr）  
+    make  
+    make install  
+  注意：
+1）执行 make install 时可能需要 root 权限。
+2）libevent会安装到 /usr/lib 或 /usr/local/lib 下
+
+install jsoncpp:
+
+1,设置环境变量
+export MYSCONS=解压的路径
+export SCONS_LIB_DIR=$MYSCONS/engine
+注意：这两个环境变量至关重要。
+
+2. 解压jsoncpp
+tar -zvxf jsoncpp-src-0.5.0.tar.gz
+
+3. 切换到jsoncpp的解压目录，执行命令：切记一定要解压切换的目录
+python $MYSCONS/script/scons platform=linux-gcc
+
+4. 生成静态和动态库文件
+在jsoncpp-src-0.5.0/libs/linux-gcc-4.1.2目录下
+libjson_linux-gcc-4.4.4_libmt.a
+libjson_linux-gcc-4.4.4_libmt.so
+
+5.将libjson_linux-gcc-4.4.4_libmt.a和libjson_linux-gcc-4.4.1.libmt.so拷贝到/hfcjm/lib下，将解压后的文件夹下的INCLUDE中的头文件拷贝到/hfcjm/include下。
+

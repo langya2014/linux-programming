@@ -1,0 +1,10 @@
+AUTOMAKE_OPTIONS = foreign
+bin_PROGRAMS = StrenthFR client
+
+client_SOURCES = ../client/client.cpp
+client_LDADD = -ljson 
+
+V_smile_SOURCES = main.cpp  ../src/threadpool.cpp ../src/eventstruct.cpp ../src/datahandle.cpp ../src/dbhandle.cpp
+V_smile_LDADD = -lpthread -ljson -levent -lmysqlclient
+
+INCLUDES = -I../include

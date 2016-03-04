@@ -1,0 +1,186 @@
+thread 0x139794490713856  is waitting
+thread 0x139794407487232  is waitting
+thread 0x139794399094528  is waitting
+thread 0x139794499106560  is waitting
+thread 0x139794390701824  is waitting
+thread 0x139794382309120  is waitting
+thread 0x139794507499264  is waitting
+thread 0x139794373916416  is waitting
+thread 0x139794365523712  is waitting
+thread 0x139794357131008  is waitting
+too many thread, 0x139794348738304 will exit
+too many thread, 0x139794340345600 will exit
+too many thread, 0x139794515891968 will exit
+too many thread, 0x139794331952896 will exit
+too many thread, 0x139794323560192 will exit
+too many thread, 0x139794315167488 will exit
+too many thread, 0x139794306774784 will exit
+too many thread, 0x139794298382080 will exit
+too many thread, 0x139794289989376 will exit
+too many thread, 0x139794281596672 will exit
+too many thread, 0x139794524284672 will exit
+too many thread, 0x139794273203968 will exit
+too many thread, 0x139794264811264 will exit
+too many thread, 0x139794256418560 will exit
+too many thread, 0x139794248025856 will exit
+too many thread, 0x139794239633152 will exit
+too many thread, 0x139794122135296 will exit
+too many thread, 0x139794105349888 will exit
+too many thread, 0x139794197669632 will exit
+too many thread, 0x139794147313408 will exit
+too many thread, 0x139794096957184 will exit
+too many thread, 0x139794088564480 will exit
+too many thread, 0x139794189276928 will exit
+too many thread, 0x139794180884224 will exit
+too many thread, 0x139794172491520 will exit
+too many thread, 0x139794164098816 will exit
+too many thread, 0x139794155706112 will exit
+too many thread, 0x139794130528000 will exit
+too many thread, 0x139794080171776 will exit
+too many thread, 0x139794231240448 will exit
+too many thread, 0x139794222847744 will exit
+too many thread, 0x139794214455040 will exit
+too many thread, 0x139794206062336 will exit
+too many thread, 0x139794138920704 will exit
+too many thread, 0x139794113742592 will exit
+too many thread, 0x139794071779072 will exit
+too many thread, 0x139794063386368 will exit
+too many thread, 0x139794054993664 will exit
+too many thread, 0x139794046600960 will exit
+too many thread, 0x139794038208256 will exit
+too many thread, 0x139794029815552 will exit
+too many thread, 0x139794021422848 will exit
+too many thread, 0x139794013030144 will exit
+too many thread, 0x139794004637440 will exit
+too many thread, 0x139794532677376 will exit
+too many thread, 0x139793996244736 will exit
+too many thread, 0x139793987852032 will exit
+too many thread, 0x139793979459328 will exit
+too many thread, 0x139793971066624 will exit
+too many thread, 0x139793962673920 will exit
+too many thread, 0x139793954281216 will exit
+too many thread, 0x139793945888512 will exit
+too many thread, 0x139793937495808 will exit
+too many thread, 0x139793929103104 will exit
+too many thread, 0x139793920710400 will exit
+too many thread, 0x139793912317696 will exit
+too many thread, 0x139793903924992 will exit
+too many thread, 0x139793895532288 will exit
+too many thread, 0x139793887139584 will exit
+too many thread, 0x139793878746880 will exit
+too many thread, 0x139793870354176 will exit
+too many thread, 0x139793861961472 will exit
+too many thread, 0x139793853568768 will exit
+too many thread, 0x139793845176064 will exit
+too many thread, 0x139793836783360 will exit
+too many thread, 0x139793828390656 will exit
+too many thread, 0x139793819997952 will exit
+too many thread, 0x139793811605248 will exit
+too many thread, 0x139793803212544 will exit
+too many thread, 0x139793794819840 will exit
+too many thread, 0x139793786427136 will exit
+too many thread, 0x139793778034432 will exit
+too many thread, 0x139794541070080 will exit
+too many thread, 0x139793769641728 will exit
+too many thread, 0x139793761249024 will exit
+too many thread, 0x139793752856320 will exit
+too many thread, 0x139793744463616 will exit
+too many thread, 0x139793736070912 will exit
+too many thread, 0x139793727678208 will exit
+too many thread, 0x139793719285504 will exit
+too many thread, 0x139793710892800 will exit
+too many thread, 0x139793702500096 will exit
+too many thread, 0x139793694107392 will exit
+too many thread, 0x139793685714688 will exit
+too many thread, 0x139793677321984 will exit
+too many thread, 0x139793668929280 will exit
+too many thread, 0x139793660536576 will exit
+too many thread, 0x139793652143872 will exit
+too many thread, 0x139793643751168 will exit
+too many thread, 0x139793635358464 will exit
+too many thread, 0x139793626965760 will exit
+too many thread, 0x139793618573056 will exit
+too many thread, 0x139793610180352 will exit
+too many thread, 0x139793601787648 will exit
+too many thread, 0x139793593394944 will exit
+too many thread, 0x139793585002240 will exit
+too many thread, 0x139793576609536 will exit
+too many thread, 0x139793568216832 will exit
+too many thread, 0x139793559824128 will exit
+too many thread, 0x139793551431424 will exit
+too many thread, 0x139793543038720 will exit
+too many thread, 0x139793534646016 will exit
+too many thread, 0x139793526253312 will exit
+too many thread, 0x139793517860608 will exit
+too many thread, 0x139793509467904 will exit
+too many thread, 0x139793501075200 will exit
+too many thread, 0x139793492682496 will exit
+too many thread, 0x139793484289792 will exit
+too many thread, 0x139793475897088 will exit
+too many thread, 0x139793467504384 will exit
+too many thread, 0x139793459111680 will exit
+too many thread, 0x139793450718976 will exit
+too many thread, 0x139793442326272 will exit
+too many thread, 0x139793433933568 will exit
+too many thread, 0x139793425540864 will exit
+too many thread, 0x139793417148160 will exit
+too many thread, 0x139793408755456 will exit
+too many thread, 0x139793400362752 will exit
+too many thread, 0x139793391970048 will exit
+too many thread, 0x139793383577344 will exit
+too many thread, 0x139793375184640 will exit
+too many thread, 0x139793366791936 will exit
+too many thread, 0x139793358399232 will exit
+too many thread, 0x139793350006528 will exit
+too many thread, 0x139793341613824 will exit
+too many thread, 0x139793333221120 will exit
+too many thread, 0x139793324828416 will exit
+too many thread, 0x139793316435712 will exit
+too many thread, 0x139793308043008 will exit
+too many thread, 0x139793299650304 will exit
+too many thread, 0x139793291257600 will exit
+too many thread, 0x139793282864896 will exit
+too many thread, 0x139793274472192 will exit
+too many thread, 0x139793266079488 will exit
+too many thread, 0x139793257686784 will exit
+too many thread, 0x139793249294080 will exit
+too many thread, 0x139793240901376 will exit
+too many thread, 0x139793232508672 will exit
+too many thread, 0x139793224115968 will exit
+too many thread, 0x139793215723264 will exit
+too many thread, 0x139793207330560 will exit
+too many thread, 0x139793198937856 will exit
+too many thread, 0x139793190545152 will exit
+too many thread, 0x139793182152448 will exit
+too many thread, 0x139793173759744 will exit
+too many thread, 0x139793165367040 will exit
+too many thread, 0x139793156974336 will exit
+too many thread, 0x139793148581632 will exit
+too many thread, 0x139793140188928 will exit
+too many thread, 0x139793131796224 will exit
+too many thread, 0x139793123403520 will exit
+too many thread, 0x139793115010816 will exit
+too many thread, 0x139793106618112 will exit
+too many thread, 0x139793098225408 will exit
+too many thread, 0x139793089832704 will exit
+too many thread, 0x139793081440000 will exit
+too many thread, 0x139793073047296 will exit
+too many thread, 0x139793064654592 will exit
+too many thread, 0x139793056261888 will exit
+too many thread, 0x139793047869184 will exit
+too many thread, 0x139793039476480 will exit
+too many thread, 0x139793031083776 will exit
+too many thread, 0x139793022691072 will exit
+too many thread, 0x139793014298368 will exit
+too many thread, 0x139793005905664 will exit
+accept an client
+in datahandle: {"num":0,"typecode":2020}
+typecode:2020
+too many thread, 0x139794490713856 will exit
+send data:{"list":[{"img":1,"title":"正确使用爽肤水","writer":"langya"},{"img":1,"title":"脸部运动消除双下巴","writer":"langya"},{"img":8,"title":"年轻的饮食秘诀","writer":"langya"},{"img":2,"title":"长皱纹了怎么办","writer":"langya"},{"img":0,"title":"脸部按摩法","writer":"langya"},{"img":11,"title":"长痘痘怎么办","writer":"langya"},{"img":12,"title":"想睡觉了","writer":"langya"},{"img":0,"title":"VSmile","writer":"QQ"},{"img":1,"title":"瘦脸美肤","writer":"CQ"},{"img":4,"title":"美美的","writer":"小心翼翼"}],"typecode":2030}
+
+in datahandle: {"writer":"finder","num":0,"typecode":2040}
+typecode:2040
+thread 0x139794407487232  is waitting
+send data:{"list":null,"typecode":2050,"writer":"finder"}
+
