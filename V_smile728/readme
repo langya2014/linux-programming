@@ -1,0 +1,5 @@
+if modify the Makefile.am, need to run commmand "automake".
+then run "make", Makefile updated.
+first run "V_Simle", on other terminal run "client".
+
+datahandle.cpp and makefile.am have been modified in 20150310.and pwdmodify.cpp

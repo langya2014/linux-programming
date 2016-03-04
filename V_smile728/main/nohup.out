@@ -1,0 +1,1326 @@
+listen socket3
+thread 0x140089535485696  is waitting
+thread 0x140089527092992  is waitting
+thread 0x140089518700288  is waitting
+thread 0x140089510307584  is waitting
+thread 0x140089501914880  is waitting
+too many thread, 0x140089493522176 will exit
+too many thread, 0x140089543878400 will exit
+too many thread, 0x140089485129472 will exit
+too many thread, 0x140089476736768 will exit
+too many thread, 0x140089468344064 will exit
+too many thread, 0x140089459951360 will exit
+too many thread, 0x140089451558656 will exit
+too many thread, 0x140089443165952 will exit
+too many thread, 0x140089552271104 will exit
+too many thread, 0x140089434773248 will exit
+too many thread, 0x140089426380544 will exit
+too many thread, 0x140089417987840 will exit
+too many thread, 0x140089409595136 will exit
+too many thread, 0x140089401202432 will exit
+too many thread, 0x140089392809728 will exit
+too many thread, 0x140089384417024 will exit
+too many thread, 0x140089376024320 will exit
+too many thread, 0x140089367631616 will exit
+too many thread, 0x140089359238912 will exit
+too many thread, 0x140089632036608 will exit
+too many thread, 0x140089350846208 will exit
+too many thread, 0x140089342453504 will exit
+too many thread, 0x140089334060800 will exit
+too many thread, 0x140089325668096 will exit
+too many thread, 0x140089317275392 will exit
+too many thread, 0x140089308882688 will exit
+too many thread, 0x140089300489984 will exit
+too many thread, 0x140089292097280 will exit
+too many thread, 0x140089283704576 will exit
+too many thread, 0x140089275311872 will exit
+too many thread, 0x140089266919168 will exit
+too many thread, 0x140089258526464 will exit
+too many thread, 0x140089250133760 will exit
+too many thread, 0x140089241741056 will exit
+too many thread, 0x140089640429312 will exit
+too many thread, 0x140089233348352 will exit
+too many thread, 0x140089224955648 will exit
+too many thread, 0x140089216562944 will exit
+too many thread, 0x140089208170240 will exit
+too many thread, 0x140088880854784 will exit
+too many thread, 0x140088906032896 will exit
+too many thread, 0x140089031923456 will exit
+too many thread, 0x140088931211008 will exit
+too many thread, 0x140088889247488 will exit
+too many thread, 0x140089107457792 will exit
+too many thread, 0x140088981567232 will exit
+too many thread, 0x140089057101568 will exit
+too many thread, 0x140089006745344 will exit
+too many thread, 0x140089157814016 will exit
+too many thread, 0x140089040316160 will exit
+too many thread, 0x140089015138048 will exit
+too many thread, 0x140088939603712 will exit
+too many thread, 0x140088922818304 will exit
+too many thread, 0x140089166206720 will exit
+too many thread, 0x140089115850496 will exit
+too many thread, 0x140088956389120 will exit
+too many thread, 0x140088872462080 will exit
+too many thread, 0x140089199777536 will exit
+too many thread, 0x140089174599424 will exit
+too many thread, 0x140089132635904 will exit
+too many thread, 0x140089124243200 will exit
+too many thread, 0x140089073886976 will exit
+too many thread, 0x140088998352640 will exit
+too many thread, 0x140088989959936 will exit
+too many thread, 0x140088964781824 will exit
+too many thread, 0x140088897640192 will exit
+too many thread, 0x140089149421312 will exit
+too many thread, 0x140089141028608 will exit
+too many thread, 0x140089099065088 will exit
+too many thread, 0x140089090672384 will exit
+too many thread, 0x140088973174528 will exit
+too many thread, 0x140088947996416 will exit
+too many thread, 0x140089191384832 will exit
+too many thread, 0x140089182992128 will exit
+too many thread, 0x140089082279680 will exit
+too many thread, 0x140089065494272 will exit
+too many thread, 0x140089048708864 will exit
+too many thread, 0x140089023530752 will exit
+too many thread, 0x140088914425600 will exit
+too many thread, 0x140088864069376 will exit
+too many thread, 0x140088855676672 will exit
+too many thread, 0x140088847283968 will exit
+too many thread, 0x140088838891264 will exit
+too many thread, 0x140088830498560 will exit
+too many thread, 0x140088822105856 will exit
+too many thread, 0x140088813713152 will exit
+too many thread, 0x140088805320448 will exit
+too many thread, 0x140088796927744 will exit
+too many thread, 0x140088788535040 will exit
+too many thread, 0x140088780142336 will exit
+too many thread, 0x140088771749632 will exit
+too many thread, 0x140088763356928 will exit
+too many thread, 0x140088754964224 will exit
+too many thread, 0x140088746571520 will exit
+too many thread, 0x140088738178816 will exit
+too many thread, 0x140088729786112 will exit
+too many thread, 0x140088721393408 will exit
+too many thread, 0x140088713000704 will exit
+too many thread, 0x140088704608000 will exit
+too many thread, 0x140089648822016 will exit
+too many thread, 0x140088696215296 will exit
+too many thread, 0x140088687822592 will exit
+too many thread, 0x140088679429888 will exit
+too many thread, 0x140088671037184 will exit
+too many thread, 0x140088662644480 will exit
+too many thread, 0x140088654251776 will exit
+too many thread, 0x140088645859072 will exit
+too many thread, 0x140088637466368 will exit
+too many thread, 0x140088629073664 will exit
+too many thread, 0x140088620680960 will exit
+too many thread, 0x140088612288256 will exit
+too many thread, 0x140088603895552 will exit
+too many thread, 0x140088595502848 will exit
+too many thread, 0x140088587110144 will exit
+too many thread, 0x140088578717440 will exit
+too many thread, 0x140088570324736 will exit
+too many thread, 0x140088561932032 will exit
+too many thread, 0x140088553539328 will exit
+too many thread, 0x140088545146624 will exit
+too many thread, 0x140088536753920 will exit
+too many thread, 0x140088528361216 will exit
+too many thread, 0x140088519968512 will exit
+too many thread, 0x140088511575808 will exit
+too many thread, 0x140088503183104 will exit
+too many thread, 0x140088494790400 will exit
+too many thread, 0x140088486397696 will exit
+too many thread, 0x140088478004992 will exit
+too many thread, 0x140088469612288 will exit
+too many thread, 0x140088461219584 will exit
+too many thread, 0x140088452826880 will exit
+too many thread, 0x140088444434176 will exit
+too many thread, 0x140088436041472 will exit
+too many thread, 0x140088427648768 will exit
+too many thread, 0x140088419256064 will exit
+too many thread, 0x140088410863360 will exit
+too many thread, 0x140088402470656 will exit
+too many thread, 0x140088394077952 will exit
+too many thread, 0x140088385685248 will exit
+too many thread, 0x140088377292544 will exit
+too many thread, 0x140088368899840 will exit
+too many thread, 0x140088360507136 will exit
+too many thread, 0x140088352114432 will exit
+too many thread, 0x140088343721728 will exit
+too many thread, 0x140088335329024 will exit
+too many thread, 0x140088326936320 will exit
+too many thread, 0x140088318543616 will exit
+too many thread, 0x140088310150912 will exit
+too many thread, 0x140088301758208 will exit
+too many thread, 0x140088293365504 will exit
+too many thread, 0x140088284972800 will exit
+too many thread, 0x140089657214720 will exit
+too many thread, 0x140088276580096 will exit
+too many thread, 0x140088268187392 will exit
+too many thread, 0x140088259794688 will exit
+too many thread, 0x140088251401984 will exit
+too many thread, 0x140088243009280 will exit
+too many thread, 0x140088234616576 will exit
+too many thread, 0x140088226223872 will exit
+too many thread, 0x140088217831168 will exit
+too many thread, 0x140088209438464 will exit
+too many thread, 0x140088201045760 will exit
+too many thread, 0x140088192653056 will exit
+too many thread, 0x140088184260352 will exit
+too many thread, 0x140088175867648 will exit
+too many thread, 0x140088167474944 will exit
+too many thread, 0x140088159082240 will exit
+too many thread, 0x140088150689536 will exit
+too many thread, 0x140088142296832 will exit
+too many thread, 0x140088133904128 will exit
+too many thread, 0x140088125511424 will exit
+too many thread, 0x140088117118720 will exit
+too many thread, 0x140088108726016 will exit
+too many thread, 0x140088100333312 will exit
+too many thread, 0x140088091940608 will exit
+too many thread, 0x140088083547904 will exit
+too many thread, 0x140088075155200 will exit
+too many thread, 0x140088066762496 will exit
+too many thread, 0x140088058369792 will exit
+too many thread, 0x140088049977088 will exit
+too many thread, 0x140088041584384 will exit
+too many thread, 0x140088033191680 will exit
+too many thread, 0x140088024798976 will exit
+too many thread, 0x140088016406272 will exit
+too many thread, 0x140088008013568 will exit
+too many thread, 0x140087999620864 will exit
+too many thread, 0x140087991228160 will exit
+too many thread, 0x140087982835456 will exit
+too many thread, 0x140087974442752 will exit
+too many thread, 0x140087966050048 will exit
+too many thread, 0x140087957657344 will exit
+too many thread, 0x140087949264640 will exit
+too many thread, 0x140087940871936 will exit
+too many thread, 0x140087932479232 will exit
+too many thread, 0x140087924086528 will exit
+too many thread, 0x140087915693824 will exit
+too many thread, 0x140087907301120 will exit
+too many thread, 0x140087898908416 will exit
+too many thread, 0x140087890515712 will exit
+too many thread, 0x140087882123008 will exit
+too many thread, 0x140087873730304 will exit
+too many thread, 0x140087865337600 will exit
+too many thread, 0x140087856944896 will exit
+too many thread, 0x140087848552192 will exit
+too many thread, 0x140087840159488 will exit
+too many thread, 0x140087831766784 will exit
+too many thread, 0x140087823374080 will exit
+too many thread, 0x140087814981376 will exit
+too many thread, 0x140087806588672 will exit
+too many thread, 0x140087798195968 will exit
+too many thread, 0x140087789803264 will exit
+too many thread, 0x140087781410560 will exit
+too many thread, 0x140087773017856 will exit
+too many thread, 0x140087764625152 will exit
+too many thread, 0x140087756232448 will exit
+too many thread, 0x140087747839744 will exit
+too many thread, 0x140087739447040 will exit
+too many thread, 0x140087731054336 will exit
+too many thread, 0x140087722661632 will exit
+too many thread, 0x140087714268928 will exit
+too many thread, 0x140087705876224 will exit
+too many thread, 0x140087697483520 will exit
+too many thread, 0x140087689090816 will exit
+too many thread, 0x140087680698112 will exit
+too many thread, 0x140087672305408 will exit
+too many thread, 0x140087663912704 will exit
+too many thread, 0x140087655520000 will exit
+too many thread, 0x140087647127296 will exit
+too many thread, 0x140087638734592 will exit
+too many thread, 0x140087630341888 will exit
+too many thread, 0x140087621949184 will exit
+listen socket3
+bind to server address error!
+accept an client
+in datahandle: {"num":0,"typecode":2020}
+typecode:2020
+too many thread, 0x140089535485696 will exit
+send data:{"list":[{"img":8,"title":"年轻的饮食秘诀","writer":"langya"},{"img":2,"title":"长皱纹了怎么办","writer":"langya"},{"img":0,"title":"脸部按摩法","writer":"langya"},{"img":11,"title":"长痘痘怎么办","writer":"langya"},{"img":12,"title":"想睡觉了","writer":"langya"},{"img":0,"title":"VSmile","writer":"QQ"},{"img":1,"title":"瘦脸美肤","writer":"CQ"},{"img":4,"title":"美美的","writer":"小心翼翼"}],"typecode":2030}
+
+accept an client
+in datahandle: {"num":0,"typecode":2020}
+typecode:2020
+thread 0x140089527092992  is waitting
+send data:{"list":[{"img":8,"title":"年轻的饮食秘诀","writer":"langya"},{"img":2,"title":"长皱纹了怎么办","writer":"langya"},{"img":0,"title":"脸部按摩法","writer":"langya"},{"img":11,"title":"长痘痘怎么办","writer":"langya"},{"img":12,"title":"想睡觉了","writer":"langya"},{"img":0,"title":"VSmile","writer":"QQ"},{"img":1,"title":"瘦脸美肤","writer":"CQ"},{"img":4,"title":"美美的","writer":"小心翼翼"}],"typecode":2030}
+
+in datahandle: {"password":"123456789","username":"langya","typecode":20}
+typecode:20
+login success!
+update users set socket='34886768' where username='langya'
+langya
+update scores set scores='15' where username='langya'
+update scores success!
+readmsgid:1
+select * from qun8_record order by id DESC
+readmsgid:11
+select * from qun9_record order by id DESC
+row3[0]:13
+There are new chat message!
+map size:1
+num:1
+requester: wendy
+thread 0x140089518700288  is waitting
+send data:{"age":0,"facetype":0,"headpicID":0,"sex":0,"typecode":30,"username":"langya"}
+
+send data:{"score":15,"typecode":4010}
+
+send data:{"group_list":[{"group_name":"6666666","num":2}],"typecode":1211}
+
+send data:{"group_list":[{"img":0,"infor":"great","name":"wendy","type":1}],"typecode":1071}
+
+in datahandle: {"num":0,"username":"langya","typecode":1000}
+typecode:1000
+thread 0x140089510307584  is waitting
+send data:{"group_list":[{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":1},{"img":2,"infor":"888888888888866666","name":"6666666","type":11}],"typecode":1010}
+
+in datahandle: {"num":0,"username":"langya","typecode":1000}
+typecode:1000
+thread 0x140089501914880  is waitting
+send data:{"group_list":[{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":1},{"img":2,"infor":"888888888888866666","name":"6666666","type":11}],"typecode":1010}
+
+in datahandle: {"num":0,"username":"langya","typecode":1000}
+typecode:1000
+thread 0x140089527092992  is waitting
+send data:{"group_list":[{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":1},{"img":2,"infor":"888888888888866666","name":"6666666","type":11}],"typecode":1010}
+
+in datahandle: {"num":0,"username":"langya","typecode":1000}
+typecode:1000
+thread 0x140089518700288  is waitting
+send data:{"group_list":[{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":1},{"img":2,"infor":"888888888888866666","name":"6666666","type":11}],"typecode":1010}
+
+in datahandle: {"num":0,"username":"langya","typecode":1063}
+typecode:1063
+num:1
+requester: wendy
+thread 0x140089510307584  is waitting
+send data:{"group_list":[{"img":0,"infor":"great","name":"wendy","type":1}],"typecode":1070}
+
+in datahandle: {"group_name":"great","requester":"wendy","master":"langya","typecode":1061}
+typecode:1061
+this user is permitted to join group!
+requester is offline!
+insert into grp_request_msg (img,request,qunname,qunmaster) values(1,'wendy','great','langya')
+insert group request msg success!
+insert into user_qun (username, qunname, relationship) values('wendy', 'great', 1)
+insert user_qun relationship success!
+sssssssssss
+delete from grp_request_msg where img='0' && request='wendy' && qunname='great' && qunmaster='langya'
+delete from grp_request_msg success!
+clean msg!
+thread 0x140089501914880  is waitting
+send data:null
+
+in datahandle: {"num":0,"username":"langya","typecode":1000}
+typecode:1000
+in datahandle: {"num":0,"username":"langya","typecode":1100}
+typecode:1100
+num:0
+qunname6666666
+qunnamegreat
+qunnum:2
+num:0
+qunname6666666
+qunnamegreat
+qunnum:2
+thread 0x140089527092992  is waitting
+thread 0x140089518700288  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":2},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":2}],"typecode":1110}
+
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":2},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":2}],"typecode":1110}
+
+a client disconnect
+update users set socket=-1 where username='langya'
+update user_qun readmsgid success!
+setsocket re:0
+listen socket3
+bind to server address error!
+accept an client
+listen socket3
+bind to server address error!
+accept an client
+in datahandle: {"num":0,"typecode":2020}
+typecode:2020
+thread 0x140089510307584  is waitting
+send data:{"list":[{"img":8,"title":"年轻的饮食秘诀","writer":"langya"},{"img":2,"title":"长皱纹了怎么办","writer":"langya"},{"img":0,"title":"脸部按摩法","writer":"langya"},{"img":11,"title":"长痘痘怎么办","writer":"langya"},{"img":12,"title":"想睡觉了","writer":"langya"},{"img":0,"title":"VSmile","writer":"QQ"},{"img":1,"title":"瘦脸美肤","writer":"CQ"},{"img":4,"title":"美美的","writer":"小心翼翼"}],"typecode":2030}
+
+in datahandle: {"password":"123456789","username":"langya","typecode":20}
+typecode:20
+login success!
+update users set socket='34929600' where username='langya'
+langya
+update scores set scores='15' where username='langya'
+update scores success!
+readmsgid:1
+select * from qun8_record order by id DESC
+readmsgid:11
+select * from qun9_record order by id DESC
+row3[0]:13
+There are new chat message!
+map size:1
+num:1
+requester: wendy
+delete from grp_request_msg where img='1' && request='langya' && qunname='great' && qunmaster='langya'
+delete from grp_request_msg success!
+clean msg!
+thread 0x140089501914880  is waitting
+send data:{"age":0,"facetype":0,"headpicID":0,"sex":0,"typecode":30,"username":"langya"}
+
+send data:{"score":15,"typecode":4010}
+
+send data:{"group_list":[{"group_name":"6666666","num":2}],"typecode":1211}
+
+send data:{"group_list":[{"img":1,"infor":"great","name":"langya","type":1}],"typecode":1071}
+
+in datahandle: {"num":0,"username":"langya","typecode":1000}
+typecode:1000
+thread 0x140089527092992  is waitting
+send data:{"group_list":[{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":1},{"img":2,"infor":"888888888888866666","name":"6666666","type":11}],"typecode":1010}
+
+a client disconnect
+update users set socket=-1 where username='langya'
+update user_qun readmsgid success!
+setsocket re:0
+a client disconnect
+accept an client
+in datahandle: {"num":0,"typecode":2020}
+typecode:2020
+thread 0x140089518700288  is waitting
+send data:{"list":[{"img":8,"title":"年轻的饮食秘诀","writer":"langya"},{"img":2,"title":"长皱纹了怎么办","writer":"langya"},{"img":0,"title":"脸部按摩法","writer":"langya"},{"img":11,"title":"长痘痘怎么办","writer":"langya"},{"img":12,"title":"想睡觉了","writer":"langya"},{"img":0,"title":"VSmile","writer":"QQ"},{"img":1,"title":"瘦脸美肤","writer":"CQ"},{"img":4,"title":"美美的","writer":"小心翼翼"}],"typecode":2030}
+
+a client disconnect
+accept an client
+a client disconnect
+accept an client
+accept an client
+in datahandle: {"num":0,"typecode":2020}
+typecode:2020
+thread 0x140089510307584  is waitting
+send data:{"list":[{"img":8,"title":"年轻的饮食秘诀","writer":"langya"},{"img":2,"title":"长皱纹了怎么办","writer":"langya"},{"img":0,"title":"脸部按摩法","writer":"langya"},{"img":11,"title":"长痘痘怎么办","writer":"langya"},{"img":12,"title":"想睡觉了","writer":"langya"},{"img":0,"title":"VSmile","writer":"QQ"},{"img":1,"title":"瘦脸美肤","writer":"CQ"},{"img":4,"title":"美美的","writer":"小心翼翼"}],"typecode":2030}
+
+in datahandle: {"password":"5321","username":"wendy","typecode":20}
+typecode:20
+login success!
+update users set socket='34972880' where username='wendy'
+wendy
+update scores set scores='360' where username='wendy'
+update scores success!
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:1
+select * from qun8_record order by id DESC
+map size:0
+num:1
+requester: wendy
+delete from grp_request_msg where img='1' && request='wendy' && qunname='great' && qunmaster='langya'
+delete from grp_request_msg success!
+clean msg!
+thread 0x140089501914880  is waitting
+send data:{"age":0,"facetype":0,"headpicID":0,"sex":0,"typecode":30,"username":"wendy"}
+
+send data:{"score":360,"typecode":4010}
+
+send data:{"group_list":[{"img":1,"infor":"great","name":"langya","type":1}],"typecode":1071}
+
+in datahandle: {"num":0,"username":"wendy","typecode":1000}
+typecode:1000
+thread 0x140089527092992  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":13},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":1}],"typecode":1010}
+
+in datahandle: {"num":0,"username":"wendy","typecode":1063}
+typecode:1063
+num:0
+thread 0x140089518700288  is waitting
+send data:{"group_list":null,"typecode":1070}
+
+in datahandle: {"group_name":"6666666","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:1
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089510307584  is waitting
+in datahandle: {"group_name":"6666666","num":0,"username":"wendy","typecode":1202}
+typecode:1202
+aaaaaaaa
+qunname:6666666
+strcmp:49
+strcmp:0
+row[0]89
+recordno: qun9_record
+bbbbbbb
+select * from qun9_record order by id DESC
+query chat record success!
+eeeeeeeeeeeeeee
+i: 1
+i>=num
+i: 2
+i>=num
+i: 3
+i>=num
+i: 4
+i>=num
+i: 5
+i>=num
+i: 6
+i>=num
+i: 7
+i>=num
+i: 8
+i>=num
+i: 9
+i>=num
+count: 9
+thread 0x140089501914880  is waitting
+send data:{"group_name":"6666666","recordlist":[{"img":0,"msg":"xufcigc","time":"Wed May 20 12:23:44 2015\n","username":"wendy"},{"img":0,"msg":"igcufxxfuicc","time":"Wed May 20 12:23:12 2015\n","username":"wendy"},{"img":0,"msg":"","time":"Wed May 20 12:12:21 2015\n","username":"langya"},{"img":0,"msg":"人缘好v","time":"Wed May 20 12:12:21 2015\n","username":"langya"},{"img":0,"msg":"就不回家","time":"Wed May 20 12:12:21 2015\n","username":"langya"},{"img":0,"msg":"456","time":"Wed May 20 12:10:37 2015\n","username":"wendy"},{"img":0,"msg":"123","time":"Wed May 20 12:10:13 2015\n","username":"wendy"},{"img":0,"msg":"hi","time":"Wed May 20 12:09:47 2015\n","username":"wendy"},{"img":0,"msg":"hello","time":"Wed May 20 12:09:15 2015\n","username":"wendy"}],"typecode":1213}
+
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:1
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089527092992  is waitting
+in datahandle: {"group_name":"great","num":0,"username":"wendy","typecode":1202}
+typecode:1202
+aaaaaaaa
+qunname:great
+strcmp:0
+row[0]88
+recordno: qun8_record
+bbbbbbb
+select * from qun8_record order by id DESC
+query chat record success!
+eeeeeeeeeeeeeee
+count: 0
+thread 0x140089518700288  is waitting
+send data:{"group_name":"great","recordlist":null,"typecode":1213}
+
+in datahandle: {"group_name":"great","num":0,"username":"wendy","typecode":1202}
+typecode:1202
+aaaaaaaa
+qunname:great
+strcmp:0
+row[0]88
+recordno: qun8_record
+bbbbbbb
+select * from qun8_record order by id DESC
+query chat record success!
+eeeeeeeeeeeeeee
+count: 0
+thread 0x140089510307584  is waitting
+send data:{"group_name":"great","recordlist":null,"typecode":1213}
+
+in datahandle: {"group_name":"great","num":0,"username":"wendy","typecode":1202}
+typecode:1202
+aaaaaaaa
+qunname:great
+strcmp:0
+row[0]88
+recordno: qun8_record
+bbbbbbb
+select * from qun8_record order by id DESC
+query chat record success!
+eeeeeeeeeeeeeee
+count: 0
+thread 0x140089501914880  is waitting
+send data:{"group_name":"great","recordlist":null,"typecode":1213}
+
+in datahandle: {"group_name":"great","num":0,"username":"wendy","typecode":1202}
+typecode:1202
+aaaaaaaa
+qunname:great
+strcmp:0
+row[0]88
+recordno: qun8_record
+bbbbbbb
+select * from qun8_record order by id DESC
+query chat record success!
+eeeeeeeeeeeeeee
+count: 0
+thread 0x140089527092992  is waitting
+send data:{"group_name":"great","recordlist":null,"typecode":1213}
+
+in datahandle: {"group_name":"great","num":0,"username":"wendy","typecode":1202}
+typecode:1202
+aaaaaaaa
+qunname:great
+strcmp:0
+row[0]88
+recordno: qun8_record
+bbbbbbb
+select * from qun8_record order by id DESC
+query chat record success!
+eeeeeeeeeeeeeee
+count: 0
+thread 0x140089518700288  is waitting
+send data:{"group_name":"great","recordlist":null,"typecode":1213}
+
+in datahandle: {"group_name":"great","msg":"啦啦啦","username":"wendy","typecode":1200}
+typecode:1200
+8
+insert into qun8_record (qunname,username,cur_time,arecord) values('great','wendy','Wed May 20 14:45:08 2015
+','啦啦啦')
+add chat record success!
+num:1
+*pointeer:34972880
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:1
+select * from qun8_record order by id DESC
+row3[0]:7
+There are new chat message!
+thread 0x140089510307584  is waitting
+send data:{"group_list":[{"group_name":"great","num":1}],"typecode":1211}
+
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:1
+select * from qun8_record order by id DESC
+row3[0]:7
+There are new chat message!
+map1[group_name]:6
+select * from qun8_record order by id DESC
+sssasdfasdasd
+eeeeeeeeeeee
+int dkdkdkfsdfasdfadf
+speaker:wendy
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+1111111
+222222222222222
+333333333333
+sssssssssssssssddddddddddd
+update user_qun set readmsgid='7' where username='wendy' && qunname='great'
+update user_qun readmsgid success!
+thread 0x140089501914880  is waitting
+send data:{"group_name":"great","recordlist":[{"img":0,"msg":"啦啦啦","time":"Wed May 20 14:45:08 2015\n","username":"wendy"},{"img":0,"msg":"","time":"","username":""},{"img":-1,"msg":"","time":"","username":""},{"img":-1676764368,"msg":"","time":"","username":""},{"img":144,"msg":"","time":"","username":""},{"img":-1,"msg":"","time":"","username":""}],"typecode":1212}
+
+a client disconnect
+a client disconnect
+update users set socket=-1 where username='wendy'
+update user_qun readmsgid success!
+setsocket re:0
+accept an client
+in datahandle: {"num":0,"username":"wendy","typecode":1000}
+typecode:1000
+thread 0x140089527092992  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":13},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":7}],"typecode":1010}
+
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:7
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089518700288  is waitting
+in datahandle: {"group_name":"great","msg":"程光辉","typecode":1200}
+typecode:1200
+8
+insert into qun8_record (qunname,username,cur_time,arecord) values('great','','Wed May 20 14:46:55 2015
+','程光辉')
+add chat record success!
+num:0
+*pointeer:140087471898760
+thread 0x140089510307584  is waitting
+accept an client
+in datahandle: {"num":0,"typecode":2020}
+typecode:2020
+thread 0x140089501914880  is waitting
+send data:{"list":[{"img":8,"title":"年轻的饮食秘诀","writer":"langya"},{"img":2,"title":"长皱纹了怎么办","writer":"langya"},{"img":0,"title":"脸部按摩法","writer":"langya"},{"img":11,"title":"长痘痘怎么办","writer":"langya"},{"img":12,"title":"想睡觉了","writer":"langya"},{"img":0,"title":"VSmile","writer":"QQ"},{"img":1,"title":"瘦脸美肤","writer":"CQ"},{"img":4,"title":"美美的","writer":"小心翼翼"}],"typecode":2030}
+
+in datahandle: {"password":"5321","username":"wendy","typecode":20}
+typecode:20
+login success!
+update users set socket='35015472' where username='wendy'
+wendy
+update scores set scores='360' where username='wendy'
+update scores success!
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:7
+select * from qun8_record order by id DESC
+row3[0]:8
+There are new chat message!
+map size:1
+num:0
+thread 0x140089527092992  is waitting
+send data:{"age":0,"facetype":0,"headpicID":0,"sex":0,"typecode":30,"username":"wendy"}
+
+send data:{"score":360,"typecode":4010}
+
+send data:{"group_list":[{"group_name":"great","num":1}],"typecode":1211}
+
+in datahandle: {"num":0,"username":"wendy","typecode":1000}
+typecode:1000
+thread 0x140089518700288  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":13},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":7}],"typecode":1010}
+
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:7
+select * from qun8_record order by id DESC
+row3[0]:8
+There are new chat message!
+map1[group_name]:1
+select * from qun8_record order by id DESC
+sssasdfasdasd
+eeeeeeeeeeee
+int dkdkdkfsdfasdfadf
+speaker:
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+222222222222222
+333333333333
+sssssssssssssssddddddddddd
+update user_qun set readmsgid='8' where username='wendy' && qunname='great'
+update user_qun readmsgid success!
+thread 0x140089510307584  is waitting
+send data:{"group_name":"great","recordlist":[{"img":-1,"msg":"程光辉","time":"Wed May 20 14:46:55 2015\n","username":""}],"typecode":1212}
+
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:8
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089501914880  is waitting
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:8
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089527092992  is waitting
+in datahandle: {"group_name":"great","msg":"啦啦啦","username":"wendy","typecode":1200}
+typecode:1200
+8
+insert into qun8_record (qunname,username,cur_time,arecord) values('great','wendy','Wed May 20 14:48:14 2015
+','啦啦啦')
+add chat record success!
+num:1
+*pointeer:35015472
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:8
+select * from qun8_record order by id DESC
+row3[0]:9
+There are new chat message!
+thread 0x140089518700288  is waitting
+send data:{"group_list":[{"group_name":"great","num":1}],"typecode":1211}
+
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:8
+select * from qun8_record order by id DESC
+row3[0]:9
+There are new chat message!
+map1[group_name]:1
+select * from qun8_record order by id DESC
+sssasdfasdasd
+eeeeeeeeeeee
+int dkdkdkfsdfasdfadf
+speaker:wendy
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+1111111
+222222222222222
+333333333333
+sssssssssssssssddddddddddd
+update user_qun set readmsgid='9' where username='wendy' && qunname='great'
+update user_qun readmsgid success!
+thread 0x140089510307584  is waitting
+send data:{"group_name":"great","recordlist":[{"img":0,"msg":"啦啦啦","time":"Wed May 20 14:48:14 2015\n","username":"wendy"}],"typecode":1212}
+
+in datahandle: {"num":0,"username":"wendy","typecode":1000}
+typecode:1000
+thread 0x140089501914880  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":13},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":9}],"typecode":1010}
+
+accept an client
+in datahandle: {"num":0,"typecode":2020}
+typecode:2020
+thread 0x140089527092992  is waitting
+send data:{"list":[{"img":8,"title":"年轻的饮食秘诀","writer":"langya"},{"img":2,"title":"长皱纹了怎么办","writer":"langya"},{"img":0,"title":"脸部按摩法","writer":"langya"},{"img":11,"title":"长痘痘怎么办","writer":"langya"},{"img":12,"title":"想睡觉了","writer":"langya"},{"img":0,"title":"VSmile","writer":"QQ"},{"img":1,"title":"瘦脸美肤","writer":"CQ"},{"img":4,"title":"美美的","writer":"小心翼翼"}],"typecode":2030}
+
+in datahandle: {"password":"5321","username":"wendy","typecode":20}
+typecode:20
+login success!
+update users set socket='35016624' where username='wendy'
+wendy
+update scores set scores='360' where username='wendy'
+update scores success!
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:9
+select * from qun8_record order by id DESC
+map size:0
+num:0
+thread 0x140089518700288  is waitting
+send data:{"age":0,"facetype":0,"headpicID":0,"sex":0,"typecode":30,"username":"wendy"}
+
+send data:{"score":360,"typecode":4010}
+
+in datahandle: {"num":0,"username":"wendy","typecode":1000}
+typecode:1000
+thread 0x140089510307584  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":13},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":9}],"typecode":1010}
+
+in datahandle: {"title":"长皱纹了怎么办","username":"wendy","typecode":2080}
+typecode:2080
+thread 0x140089501914880  is waitting
+send data:{"content":"早上起床，喝一杯温热的白开水，不但可以补充水分，还可以排宿便、清毒素。\r\n\r\n　　一定要吃早餐。在三餐定时情况下，人体内会自然产生胃结肠反射现象，有利身体排毒;反之若不吃早餐成习惯，就可能造成胃结肠反射作用失调，产生便秘。久而久之，会导致皮肤干燥、起皱和贫血等，加速人体的衰老，严重时还会造成营养缺乏症。\r\n\r\n　　推荐早餐：\r\n\r\n　　一杯新鲜酸奶+两片全麦面包+一西红柿\r\n\r\n　　酸奶和西红柿的维生素A含量都非常高。维A的主要功效还有促进肌肤细胞新生，提高皮肤深层细胞新速度，加强细胞间的连接力，使皮肤富有弹性，调节皮肤细胞角质化的过程。","img":2,"title":"长皱纹了怎么办","typecode":2090}
+
+in datahandle: {"title":"长皱纹了怎么办","username":"wendy","typecode":2080}
+typecode:2080
+thread 0x140089527092992  is waitting
+send data:{"content":"早上起床，喝一杯温热的白开水，不但可以补充水分，还可以排宿便、清毒素。\r\n\r\n　　一定要吃早餐。在三餐定时情况下，人体内会自然产生胃结肠反射现象，有利身体排毒;反之若不吃早餐成习惯，就可能造成胃结肠反射作用失调，产生便秘。久而久之，会导致皮肤干燥、起皱和贫血等，加速人体的衰老，严重时还会造成营养缺乏症。\r\n\r\n　　推荐早餐：\r\n\r\n　　一杯新鲜酸奶+两片全麦面包+一西红柿\r\n\r\n　　酸奶和西红柿的维生素A含量都非常高。维A的主要功效还有促进肌肤细胞新生，提高皮肤深层细胞新速度，加强细胞间的连接力，使皮肤富有弹性，调节皮肤细胞角质化的过程。","img":2,"title":"长皱纹了怎么办","typecode":2090}
+
+in datahandle: {"num":0,"username":"wendy","typecode":2100}
+typecode:2100
+thread 0x140089518700288  is waitting
+send data:{"list":[{"img":13,"title":"美美的","writer":"小心翼翼"},{"img":17,"title":"长皱纹了怎么办","writer":""},{"img":12,"title":"想睡觉了","writer":"langya"}],"typecode":2110}
+
+in datahandle: {"writer":"wendy","num":0,"typecode":2040}
+typecode:2040
+thread 0x140089510307584  is waitting
+send data:{"list":null,"typecode":2050,"writer":"wendy"}
+
+a client disconnect
+a client disconnect
+update users set socket=-1 where username='wendy'
+update user_qun readmsgid success!
+setsocket re:0
+a client disconnect
+update users set socket=-1 where username='wendy'
+update user_qun readmsgid success!
+setsocket re:0
+accept an client
+in datahandle: {"num":0,"typecode":2020}
+typecode:2020
+thread 0x140089501914880  is waitting
+send data:{"list":[{"img":8,"title":"年轻的饮食秘诀","writer":"langya"},{"img":2,"title":"长皱纹了怎么办","writer":"langya"},{"img":0,"title":"脸部按摩法","writer":"langya"},{"img":11,"title":"长痘痘怎么办","writer":"langya"},{"img":12,"title":"想睡觉了","writer":"langya"},{"img":0,"title":"VSmile","writer":"QQ"},{"img":1,"title":"瘦脸美肤","writer":"CQ"},{"img":4,"title":"美美的","writer":"小心翼翼"}],"typecode":2030}
+
+in datahandle: {"password":"5321","username":"hahaha","typecode":20}
+typecode:20
+login success!
+update users set socket='34929600' where username='hahaha'
+hahaha
+update scores set scores='0' where username='hahaha'
+update scores success!
+map size:0
+num:0
+thread 0x140089527092992  is waitting
+send data:{"age":0,"facetype":0,"headpicID":2,"sex":0,"typecode":30,"username":"hahaha"}
+
+send data:{"score":0,"typecode":4010}
+
+in datahandle: {"num":0,"username":"hahaha","typecode":1000}
+typecode:1000
+thread 0x140089518700288  is waitting
+send data:{"group_list":null,"typecode":1010}
+
+in datahandle: {"title":"长皱纹了怎么办","username":"hahaha","typecode":2080}
+typecode:2080
+thread 0x140089510307584  is waitting
+send data:{"content":"早上起床，喝一杯温热的白开水，不但可以补充水分，还可以排宿便、清毒素。\r\n\r\n　　一定要吃早餐。在三餐定时情况下，人体内会自然产生胃结肠反射现象，有利身体排毒;反之若不吃早餐成习惯，就可能造成胃结肠反射作用失调，产生便秘。久而久之，会导致皮肤干燥、起皱和贫血等，加速人体的衰老，严重时还会造成营养缺乏症。\r\n\r\n　　推荐早餐：\r\n\r\n　　一杯新鲜酸奶+两片全麦面包+一西红柿\r\n\r\n　　酸奶和西红柿的维生素A含量都非常高。维A的主要功效还有促进肌肤细胞新生，提高皮肤深层细胞新速度，加强细胞间的连接力，使皮肤富有弹性，调节皮肤细胞角质化的过程。","img":2,"title":"长皱纹了怎么办","typecode":2090}
+
+in datahandle: {"title":"长皱纹了怎么办","username":"hahaha","typecode":2080}
+typecode:2080
+thread 0x140089501914880  is waitting
+send data:{"content":"早上起床，喝一杯温热的白开水，不但可以补充水分，还可以排宿便、清毒素。\r\n\r\n　　一定要吃早餐。在三餐定时情况下，人体内会自然产生胃结肠反射现象，有利身体排毒;反之若不吃早餐成习惯，就可能造成胃结肠反射作用失调，产生便秘。久而久之，会导致皮肤干燥、起皱和贫血等，加速人体的衰老，严重时还会造成营养缺乏症。\r\n\r\n　　推荐早餐：\r\n\r\n　　一杯新鲜酸奶+两片全麦面包+一西红柿\r\n\r\n　　酸奶和西红柿的维生素A含量都非常高。维A的主要功效还有促进肌肤细胞新生，提高皮肤深层细胞新速度，加强细胞间的连接力，使皮肤富有弹性，调节皮肤细胞角质化的过程。","img":2,"title":"长皱纹了怎么办","typecode":2090}
+
+in datahandle: {"num":0,"username":"hahaha","typecode":1000}
+typecode:1000
+thread 0x140089527092992  is waitting
+send data:{"group_list":null,"typecode":1010}
+
+in datahandle: {"num":0,"username":"hahaha","typecode":1100}
+typecode:1100
+num:0
+qunname6666666
+qunnamegreat
+qunnum:2
+thread 0x140089518700288  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":2},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":2}],"typecode":1110}
+
+in datahandle: {"password":"5321","username":"wendy","typecode":20}
+typecode:20
+login success!
+update users set socket='34929600' where username='wendy'
+wendy
+update scores set scores='360' where username='wendy'
+update scores success!
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:9
+select * from qun8_record order by id DESC
+map size:0
+num:0
+thread 0x140089510307584  is waitting
+send data:{"age":0,"facetype":0,"headpicID":0,"sex":0,"typecode":30,"username":"wendy"}
+
+send data:{"score":360,"typecode":4010}
+
+in datahandle: {"num":0,"username":"wendy","typecode":1000}
+typecode:1000
+thread 0x140089501914880  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":13},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":9}],"typecode":1010}
+
+in datahandle: {"group_name":"6666666","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:13
+select * from qun9_record order by id DESC
+readmsgid:9
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089527092992  is waitting
+in datahandle: {"group_name":"6666666","msg":"bxx","username":"wendy","typecode":1200}
+typecode:1200
+9
+insert into qun9_record (qunname,username,cur_time,arecord) values('6666666','wendy','Wed May 20 15:02:42 2015
+','bxx')
+add chat record success!
+num:1
+*pointeer:34929600
+readmsgid:13
+select * from qun9_record order by id DESC
+row3[0]:14
+There are new chat message!
+readmsgid:9
+select * from qun8_record order by id DESC
+thread 0x140089518700288  is waitting
+send data:{"group_list":[{"group_name":"6666666","num":1}],"typecode":1211}
+
+in datahandle: {"group_name":"6666666","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:13
+select * from qun9_record order by id DESC
+row3[0]:14
+There are new chat message!
+readmsgid:9
+select * from qun8_record order by id DESC
+map1[group_name]:1
+select * from qun9_record order by id DESC
+sssasdfasdasd
+eeeeeeeeeeee
+int dkdkdkfsdfasdfadf
+speaker:wendy
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+1111111
+222222222222222
+333333333333
+sssssssssssssssddddddddddd
+update user_qun set readmsgid='14' where username='wendy' && qunname='6666666'
+update user_qun readmsgid success!
+thread 0x140089510307584  is waitting
+send data:{"group_name":"6666666","recordlist":[{"img":0,"msg":"bxx","time":"Wed May 20 15:02:42 2015\n","username":"wendy"}],"typecode":1212}
+
+in datahandle: {"group_name":"6666666","msg":"bxxb","username":"wendy","typecode":1200}
+typecode:1200
+9
+insert into qun9_record (qunname,username,cur_time,arecord) values('6666666','wendy','Wed May 20 15:02:44 2015
+','bxxb')
+add chat record success!
+num:1
+*pointeer:34929600
+readmsgid:14
+select * from qun9_record order by id DESC
+row3[0]:15
+There are new chat message!
+readmsgid:9
+select * from qun8_record order by id DESC
+thread 0x140089501914880  is waitting
+send data:{"group_list":[{"group_name":"6666666","num":1}],"typecode":1211}
+
+in datahandle: {"group_name":"6666666","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:14
+select * from qun9_record order by id DESC
+row3[0]:15
+There are new chat message!
+readmsgid:9
+select * from qun8_record order by id DESC
+map1[group_name]:1
+select * from qun9_record order by id DESC
+sssasdfasdasd
+eeeeeeeeeeee
+int dkdkdkfsdfasdfadf
+speaker:wendy
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+1111111
+222222222222222
+333333333333
+sssssssssssssssddddddddddd
+update user_qun set readmsgid='15' where username='wendy' && qunname='6666666'
+update user_qun readmsgid success!
+thread 0x140089527092992  is waitting
+send data:{"group_name":"6666666","recordlist":[{"img":0,"msg":"bxxb","time":"Wed May 20 15:02:44 2015\n","username":"wendy"}],"typecode":1212}
+
+in datahandle: {"num":0,"username":"wendy","typecode":1000}
+typecode:1000
+thread 0x140089518700288  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":15},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":9}],"typecode":1010}
+
+in datahandle: {"group_name":"6666666","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:9
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089510307584  is waitting
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:9
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089501914880  is waitting
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:9
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089527092992  is waitting
+in datahandle: {"num":0,"username":"wendy","typecode":1000}
+typecode:1000
+thread 0x140089518700288  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":15},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":9}],"typecode":1010}
+
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:9
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089510307584  is waitting
+in datahandle: {"group_name":"great","msg":"hxhxhx","username":"wendy","typecode":1200}
+typecode:1200
+8
+insert into qun8_record (qunname,username,cur_time,arecord) values('great','wendy','Wed May 20 15:03:08 2015
+','hxhxhx')
+add chat record success!
+num:1
+*pointeer:34929600
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:9
+select * from qun8_record order by id DESC
+row3[0]:10
+There are new chat message!
+thread 0x140089501914880  is waitting
+send data:{"group_list":[{"group_name":"great","num":1}],"typecode":1211}
+
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:9
+select * from qun8_record order by id DESC
+row3[0]:10
+There are new chat message!
+map1[group_name]:1
+select * from qun8_record order by id DESC
+sssasdfasdasd
+eeeeeeeeeeee
+int dkdkdkfsdfasdfadf
+speaker:wendy
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+1111111
+222222222222222
+333333333333
+sssssssssssssssddddddddddd
+update user_qun set readmsgid='10' where username='wendy' && qunname='great'
+update user_qun readmsgid success!
+thread 0x140089527092992  is waitting
+send data:{"group_name":"great","recordlist":[{"img":0,"msg":"hxhxhx","time":"Wed May 20 15:03:08 2015\n","username":"wendy"}],"typecode":1212}
+
+in datahandle: {"num":0,"username":"wendy","typecode":1000}
+typecode:1000
+thread 0x140089518700288  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":15},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":10}],"typecode":1010}
+
+in datahandle: {"title":"脸部按摩法","username":"wendy","typecode":2080}
+typecode:2080
+thread 0x140089510307584  is waitting
+send data:{"content":"        这是一套促进脸部血液循环，缓解皮肤肌肉紧张的简易脸部运动。\r\n\r\n　　缓解面部肌肉紧张法\r\n\r\n　　1、面对镜子，挺胸直立。两脚自然平行分开。\r\n\r\n　　2、用手背托住两个下颌。\r\n\r\n　　3、自然发笑，使面部下方肌肉稍显紧张。\r\n\r\n　　4、深呼吸的同时将两个肘部向两边抬起。用手指和手背轻按下颌，缓缓抬起。\r\n\r\n　　5、两肘部和手完全成水平时，利用手的压力托起下颌，直到头微微扬起，接着动作4，继续深呼吸。第一次持续5秒钟为佳。\r\n\r\n　　6、利用5秒钟左右的时间吐气恢复原来姿势，利用下颌的自重轻压手背。\r\n\r\n　　7、动作熟练后，身护膝的时间逐渐延长至5秒、8秒、10秒……反复次数越多越好。","img":0,"title":"脸部按摩法","typecode":2090}
+
+in datahandle: {"title":"脸部按摩法","username":"wendy","typecode":2080}
+typecode:2080
+thread 0x140089501914880  is waitting
+send data:{"content":"        这是一套促进脸部血液循环，缓解皮肤肌肉紧张的简易脸部运动。\r\n\r\n　　缓解面部肌肉紧张法\r\n\r\n　　1、面对镜子，挺胸直立。两脚自然平行分开。\r\n\r\n　　2、用手背托住两个下颌。\r\n\r\n　　3、自然发笑，使面部下方肌肉稍显紧张。\r\n\r\n　　4、深呼吸的同时将两个肘部向两边抬起。用手指和手背轻按下颌，缓缓抬起。\r\n\r\n　　5、两肘部和手完全成水平时，利用手的压力托起下颌，直到头微微扬起，接着动作4，继续深呼吸。第一次持续5秒钟为佳。\r\n\r\n　　6、利用5秒钟左右的时间吐气恢复原来姿势，利用下颌的自重轻压手背。\r\n\r\n　　7、动作熟练后，身护膝的时间逐渐延长至5秒、8秒、10秒……反复次数越多越好。","img":0,"title":"脸部按摩法","typecode":2090}
+
+in datahandle: {"writer":"wendy","num":0,"typecode":2040}
+typecode:2040
+thread 0x140089527092992  is waitting
+send data:{"list":null,"typecode":2050,"writer":"wendy"}
+
+accept an client
+in datahandle: {"num":0,"typecode":2020}
+typecode:2020
+thread 0x140089518700288  is waitting
+send data:{"list":[{"img":8,"title":"年轻的饮食秘诀","writer":"langya"},{"img":2,"title":"长皱纹了怎么办","writer":"langya"},{"img":0,"title":"脸部按摩法","writer":"langya"},{"img":11,"title":"长痘痘怎么办","writer":"langya"},{"img":12,"title":"想睡觉了","writer":"langya"},{"img":0,"title":"VSmile","writer":"QQ"},{"img":1,"title":"瘦脸美肤","writer":"CQ"},{"img":4,"title":"美美的","writer":"小心翼翼"}],"typecode":2030}
+
+in datahandle: {"password":"5321","username":"wendy","typecode":20}
+typecode:20
+login success!
+update users set socket='35100768' where username='wendy'
+wendy
+update scores set scores='360' where username='wendy'
+update scores success!
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:10
+select * from qun8_record order by id DESC
+map size:0
+num:0
+thread 0x140089510307584  is waitting
+send data:{"age":0,"facetype":0,"headpicID":0,"sex":0,"typecode":30,"username":"wendy"}
+
+send data:{"score":360,"typecode":4010}
+
+in datahandle: {"num":0,"username":"wendy","typecode":1000}
+typecode:1000
+thread 0x140089501914880  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":15},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":10}],"typecode":1010}
+
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:10
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089527092992  is waitting
+in datahandle: {"group_name":"great","msg":"bbd","username":"wendy","typecode":1200}
+typecode:1200
+8
+insert into qun8_record (qunname,username,cur_time,arecord) values('great','wendy','Wed May 20 15:05:06 2015
+','bbd')
+add chat record success!
+num:1
+*pointeer:35100768
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:10
+select * from qun8_record order by id DESC
+row3[0]:11
+There are new chat message!
+thread 0x140089518700288  is waitting
+send data:{"group_list":[{"group_name":"great","num":1}],"typecode":1211}
+
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:10
+select * from qun8_record order by id DESC
+row3[0]:11
+There are new chat message!
+map1[group_name]:1
+select * from qun8_record order by id DESC
+sssasdfasdasd
+eeeeeeeeeeee
+int dkdkdkfsdfasdfadf
+speaker:wendy
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+1111111
+222222222222222
+333333333333
+sssssssssssssssddddddddddd
+update user_qun set readmsgid='11' where username='wendy' && qunname='great'
+update user_qun readmsgid success!
+thread 0x140089510307584  is waitting
+send data:{"group_name":"great","recordlist":[{"img":0,"msg":"bbd","time":"Wed May 20 15:05:06 2015\n","username":"wendy"}],"typecode":1212}
+
+in datahandle: {"num":0,"username":"wendy","typecode":1000}
+typecode:1000
+thread 0x140089501914880  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":15},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":11}],"typecode":1010}
+
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:11
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089527092992  is waitting
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:11
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089518700288  is waitting
+in datahandle: {"group_name":"great","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:11
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089510307584  is waitting
+a client disconnect
+update users set socket=-1 where username='wendy'
+update user_qun readmsgid success!
+setsocket re:0
+a client disconnect
+update users set socket=-1 where username='wendy'
+update user_qun readmsgid success!
+setsocket re:0
+accept an client
+accept an client
+in datahandle: {"num":0,"typecode":2020}
+typecode:2020
+thread 0x140089501914880  is waitting
+send data:{"list":[{"img":8,"title":"年轻的饮食秘诀","writer":"langya"},{"img":2,"title":"长皱纹了怎么办","writer":"langya"},{"img":0,"title":"脸部按摩法","writer":"langya"},{"img":11,"title":"长痘痘怎么办","writer":"langya"},{"img":12,"title":"想睡觉了","writer":"langya"},{"img":0,"title":"VSmile","writer":"QQ"},{"img":1,"title":"瘦脸美肤","writer":"CQ"},{"img":4,"title":"美美的","writer":"小心翼翼"}],"typecode":2030}
+
+in datahandle: {"password":"5321","username":"wendy","typecode":20}
+typecode:20
+login success!
+update users set socket='34929600' where username='wendy'
+wendy
+update scores set scores='360' where username='wendy'
+update scores success!
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:11
+send data:{"age":0,"facetype":0,"headpicID":0,"sex":0,"typecode":30,"username":"wendy"}
+
+send data:{"score":360,"typecode":4010}
+
+select * from qun8_record order by id DESC
+map size:0
+num:0
+thread 0x140089527092992  is waitting
+in datahandle: {"num":0,"username":"wendy","typecode":1000}
+typecode:1000
+thread 0x140089518700288  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":15},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":11}],"typecode":1010}
+
+in datahandle: {"group_name":"6666666","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:15
+select * from qun9_record order by id DESC
+readmsgid:11
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089510307584  is waitting
+in datahandle: {"group_name":"6666666","msg":"utcutcu","username":"wendy","typecode":1200}
+typecode:1200
+9
+insert into qun9_record (qunname,username,cur_time,arecord) values('6666666','wendy','Wed May 20 15:20:39 2015
+','utcutcu')
+add chat record success!
+num:1
+*pointeer:34929600
+readmsgid:15
+select * from qun9_record order by id DESC
+row3[0]:16
+There are new chat message!
+readmsgid:11
+select * from qun8_record order by id DESC
+thread 0x140089501914880  is waitting
+send data:{"group_list":[{"group_name":"6666666","num":1}],"typecode":1211}
+
+in datahandle: {"group_name":"6666666","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:15
+select * from qun9_record order by id DESC
+row3[0]:16
+There are new chat message!
+readmsgid:11
+select * from qun8_record order by id DESC
+map1[group_name]:1
+select * from qun9_record order by id DESC
+sssasdfasdasd
+eeeeeeeeeeee
+int dkdkdkfsdfasdfadf
+speaker:wendy
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+row3 aaaaaaaaaaaaaa
+1111111
+222222222222222
+333333333333
+sssssssssssssssddddddddddd
+update user_qun set readmsgid='16' where username='wendy' && qunname='6666666'
+update user_qun readmsgid success!
+thread 0x140089527092992  is waitting
+send data:{"group_name":"6666666","recordlist":[{"img":0,"msg":"utcutcu","time":"Wed May 20 15:20:39 2015\n","username":"wendy"}],"typecode":1212}
+
+in datahandle: {"num":0,"username":"wendy","typecode":1000}
+typecode:1000
+thread 0x140089518700288  is waitting
+send data:{"group_list":[{"img":2,"infor":"888888888888866666","name":"6666666","type":16},{"img":2,"infor":"好好休息吧，太累了，工作就是生活。","name":"great","type":11}],"typecode":1010}
+
+in datahandle: {"group_name":"6666666","username":"wendy","typecode":1201}
+typecode:1201
+readmsgid:16
+select * from qun9_record order by id DESC
+readmsgid:11
+select * from qun8_record order by id DESC
+map1[group_name]:0
+thread 0x140089510307584  is waitting
+in datahandle: {"group_name":"6666666","msg":"uxtxutx","username":"wendy","typecode":1200}
+typecode:1200
+mysql_real_connect failure!
+num:0
+*pointeer:4222429316
+thread 0x140089501914880  is waitting
+in datahandle: {"group_name":"6666666","username":"wendy","typecode":1201}
+typecode:1201
+mysql_real_connect failure!
+mysql_real_query failure!
+mysql_store_result failure!
+You can see the output when the program terminates
+mysql_real_connect failure!

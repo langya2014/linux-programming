@@ -1,0 +1,332 @@
+listen socket3
+thread 0x139803349718784  is waitting
+thread 0x139803341326080  is waitting
+thread 0x139803332933376  is waitting
+thread 0x139803358111488  is waitting
+thread 0x139803324540672  is waitting
+too many thread, 0x139803316147968 will exit
+too many thread, 0x139803307755264 will exit
+too many thread, 0x139803366504192 will exit
+too many thread, 0x139803299362560 will exit
+too many thread, 0x139803290969856 will exit
+too many thread, 0x139803282577152 will exit
+too many thread, 0x139803274184448 will exit
+too many thread, 0x139803374896896 will exit
+too many thread, 0x139803265791744 will exit
+too many thread, 0x139803257399040 will exit
+too many thread, 0x139803249006336 will exit
+too many thread, 0x139803240613632 will exit
+too many thread, 0x139803232220928 will exit
+too many thread, 0x139803223828224 will exit
+too many thread, 0x139803215435520 will exit
+too many thread, 0x139803207042816 will exit
+too many thread, 0x139803383289600 will exit
+too many thread, 0x139803198650112 will exit
+too many thread, 0x139803190257408 will exit
+too many thread, 0x139803181864704 will exit
+too many thread, 0x139803173472000 will exit
+too many thread, 0x139803055974144 will exit
+too many thread, 0x139803039188736 will exit
+too many thread, 0x139803131508480 will exit
+too many thread, 0x139803081152256 will exit
+too many thread, 0x139803030796032 will exit
+too many thread, 0x139803022403328 will exit
+too many thread, 0x139803123115776 will exit
+too many thread, 0x139803114723072 will exit
+too many thread, 0x139803106330368 will exit
+too many thread, 0x139803097937664 will exit
+too many thread, 0x139803089544960 will exit
+too many thread, 0x139803064366848 will exit
+too many thread, 0x139803014010624 will exit
+too many thread, 0x139803165079296 will exit
+too many thread, 0x139803156686592 will exit
+too many thread, 0x139803148293888 will exit
+too many thread, 0x139803139901184 will exit
+too many thread, 0x139803072759552 will exit
+too many thread, 0x139803047581440 will exit
+too many thread, 0x139803005617920 will exit
+too many thread, 0x139802997225216 will exit
+too many thread, 0x139802988832512 will exit
+too many thread, 0x139802980439808 will exit
+too many thread, 0x139802972047104 will exit
+too many thread, 0x139802963654400 will exit
+too many thread, 0x139802955261696 will exit
+too many thread, 0x139802946868992 will exit
+too many thread, 0x139802938476288 will exit
+too many thread, 0x139803391682304 will exit
+too many thread, 0x139802930083584 will exit
+too many thread, 0x139802921690880 will exit
+too many thread, 0x139802913298176 will exit
+too many thread, 0x139802904905472 will exit
+too many thread, 0x139802896512768 will exit
+too many thread, 0x139802888120064 will exit
+too many thread, 0x139802879727360 will exit
+too many thread, 0x139802871334656 will exit
+too many thread, 0x139802862941952 will exit
+too many thread, 0x139802854549248 will exit
+too many thread, 0x139802846156544 will exit
+too many thread, 0x139802837763840 will exit
+too many thread, 0x139802829371136 will exit
+too many thread, 0x139802820978432 will exit
+too many thread, 0x139802812585728 will exit
+too many thread, 0x139802804193024 will exit
+too many thread, 0x139802795800320 will exit
+too many thread, 0x139802787407616 will exit
+too many thread, 0x139802779014912 will exit
+too many thread, 0x139802770622208 will exit
+too many thread, 0x139802762229504 will exit
+too many thread, 0x139802753836800 will exit
+too many thread, 0x139802745444096 will exit
+too many thread, 0x139802737051392 will exit
+too many thread, 0x139802728658688 will exit
+too many thread, 0x139803400075008 will exit
+too many thread, 0x139802720265984 will exit
+too many thread, 0x139802711873280 will exit
+too many thread, 0x139802703480576 will exit
+too many thread, 0x139802695087872 will exit
+too many thread, 0x139802686695168 will exit
+too many thread, 0x139802678302464 will exit
+too many thread, 0x139802669909760 will exit
+too many thread, 0x139802661517056 will exit
+too many thread, 0x139802653124352 will exit
+too many thread, 0x139802644731648 will exit
+too many thread, 0x139802636338944 will exit
+too many thread, 0x139802627946240 will exit
+too many thread, 0x139802619553536 will exit
+too many thread, 0x139802611160832 will exit
+accept an client
+in datahandle: {"num":0,"typecode":2020}
+typecode:2020
+too many thread, 0x139803349718784 will exit
+send data:{"list":[{"img":8,"title":"年轻的饮食秘诀","writer":"langya"},{"img":2,"title":"长皱纹了怎么办","writer":"langya"},{"img":0,"title":"脸部按摩法","writer":"langya"},{"img":11,"title":"长痘痘怎么办","writer":"langya"},{"img":12,"title":"想睡觉了","writer":"langya"},{"img":0,"title":"VSmile","writer":"QQ"},{"img":1,"title":"瘦脸美肤","writer":"CQ"},{"img":4,"title":"美美的","writer":"小心翼翼"}],"typecode":2030}
+
+in datahandle: {"password":"123456789","username":"langya","typecode":20}
+typecode:20
+login success!
+update users set socket='39135216' where username='langya'
+langya
+update scores set scores='15' where username='langya'
+update scores success!
+select * from qun1_record order by id DESC
+There are new chat message!
+select * from qun3_record order by id DESC
+select * from qun2_record order by id DESC
+map size:1
+num:0
+thread 0x139803341326080  is waitting
+send data:{"age":0,"facetype":0,"headpicID":0,"sex":0,"typecode":30,"username":"langya"}
+
+send data:{"score":15,"typecode":4010}
+
+send data:{"group_list":[{"group_name":"vsmile","num":36}],"typecode":1211}
+
+in datahandle: {"num":0,"username":"langya","typecode":1000}
+typecode:1000
+thread 0x139803332933376  is waitting
+send data:{"group_list":[{"img":0,"infor":"开心就笑笑，不开心就待会儿笑笑","name":"vsmile","type":29},{"img":1,"infor":"aaaaaaaaaaaaaaaaaaaaaa","name":"sleepy","type":3},{"img":0,"infor":"习惯-itoCKhcPCkt","name":"wendygroup","type":35}],"typecode":1010}
+
+in datahandle: {"group_name":"vsmile","username":"langya","typecode":1201}
+typecode:1201
+select * from qun1_record order by id DESC
+There are new chat message!
+select * from qun3_record order by id DESC
+select * from qun2_record order by id DESC
+map1 size:1
+select * from qun1_record order by id DESC
+sssasdfasdasd
+eeeeeeeeeeee
+int dkdkdkfsdfasdfadf
+speaker:hahaha
+row3 aaaaaaaaaaaaaa
+1111111
+222222222222222
+333333333333
+sssssssssssssssddddddddddd
+update user_qun set readmsgid='30' where username='langya' && qunname='vsmile'
+update user_qun readmsgid success!
+thread 0x139803358111488  is waitting
+send data:{"group_name":"vsmile","recordlist":[{"img":2,"msg":"hello","time":"Wed May 20 02:30:25 2015\n","username":"hahaha"}],"typecode":1212}
+
+in datahandle: {"group_name":"vsmile","num":1,"username":"langya","typecode":1202}
+typecode:1202
+aaaaaaaa
+qunname:vsmile
+strcmp:-3
+strcmp:1
+strcmp:0
+row[0]81
+recordno: qun1_record
+bbbbbbb
+select * from qun1_record
+query chat record success!
+eeeeeeeeeeeeeee
+i: 1
+i>=num
+listen socket3
+thread 0x140617313130240  is waitting
+thread 0x140617329915648  is waitting
+thread 0x140617304737536  is waitting
+thread 0x140617296344832  is waitting
+thread 0x140617287952128  is waitting
+too many thread, 0x140617338308352 will exit
+too many thread, 0x140617279559424 will exit
+too many thread, 0x140617271166720 will exit
+too many thread, 0x140617262774016 will exit
+too many thread, 0x140617254381312 will exit
+too many thread, 0x140617245988608 will exit
+too many thread, 0x140617346701056 will exit
+too many thread, 0x140617237595904 will exit
+too many thread, 0x140617229203200 will exit
+too many thread, 0x140617220810496 will exit
+too many thread, 0x140617212417792 will exit
+too many thread, 0x140617204025088 will exit
+too many thread, 0x140617195632384 will exit
+too many thread, 0x140617355093760 will exit
+too many thread, 0x140617187239680 will exit
+too many thread, 0x140617178846976 will exit
+too many thread, 0x140617170454272 will exit
+too many thread, 0x140617162061568 will exit
+too many thread, 0x140617027778304 will exit
+too many thread, 0x140617010992896 will exit
+too many thread, 0x140617103312640 will exit
+too many thread, 0x140617052956416 will exit
+too many thread, 0x140617002600192 will exit
+too many thread, 0x140616994207488 will exit
+too many thread, 0x140617153668864 will exit
+too many thread, 0x140617094919936 will exit
+too many thread, 0x140617086527232 will exit
+too many thread, 0x140617078134528 will exit
+too many thread, 0x140617069741824 will exit
+too many thread, 0x140617061349120 will exit
+too many thread, 0x140617036171008 will exit
+too many thread, 0x140616985814784 will exit
+too many thread, 0x140617145276160 will exit
+too many thread, 0x140617136883456 will exit
+too many thread, 0x140617128490752 will exit
+too many thread, 0x140617120098048 will exit
+too many thread, 0x140617111705344 will exit
+too many thread, 0x140617044563712 will exit
+too many thread, 0x140617019385600 will exit
+too many thread, 0x140616977422080 will exit
+too many thread, 0x140616960636672 will exit
+too many thread, 0x140616952243968 will exit
+too many thread, 0x140616943851264 will exit
+too many thread, 0x140616935458560 will exit
+too many thread, 0x140616927065856 will exit
+too many thread, 0x140617363486464 will exit
+too many thread, 0x140616918673152 will exit
+too many thread, 0x140616910280448 will exit
+too many thread, 0x140616901887744 will exit
+too many thread, 0x140616893495040 will exit
+too many thread, 0x140616885102336 will exit
+too many thread, 0x140616876709632 will exit
+too many thread, 0x140616868316928 will exit
+too many thread, 0x140616859924224 will exit
+too many thread, 0x140616851531520 will exit
+too many thread, 0x140616843138816 will exit
+too many thread, 0x140616834746112 will exit
+too many thread, 0x140616826353408 will exit
+too many thread, 0x140616817960704 will exit
+too many thread, 0x140617321522944 will exit
+too many thread, 0x140617447229184 will exit
+too many thread, 0x140616969029376 will exit
+too many thread, 0x140616683677440 will exit
+too many thread, 0x140616557786880 will exit
+too many thread, 0x140616641713920 will exit
+too many thread, 0x140616616535808 will exit
+too many thread, 0x140616608143104 will exit
+too many thread, 0x140616750819072 will exit
+too many thread, 0x140616717248256 will exit
+too many thread, 0x140616666892032 will exit
+too many thread, 0x140616549394176 will exit
+too many thread, 0x140616742426368 will exit
+too many thread, 0x140616734033664 will exit
+too many thread, 0x140616700462848 will exit
+too many thread, 0x140616692070144 will exit
+too many thread, 0x140616675284736 will exit
+too many thread, 0x140616650106624 will exit
+too many thread, 0x140616624928512 will exit
+too many thread, 0x140616582964992 will exit
+too many thread, 0x140616775997184 will exit
+too many thread, 0x140616708855552 will exit
+too many thread, 0x140616633321216 will exit
+too many thread, 0x140616599750400 will exit
+too many thread, 0x140616591357696 will exit
+too many thread, 0x140616574572288 will exit
+too many thread, 0x140616566179584 will exit
+too many thread, 0x140616767604480 will exit
+too many thread, 0x140616658499328 will exit
+too many thread, 0x140616759211776 will exit
+too many thread, 0x140616725640960 will exit
+too many thread, 0x140616784389888 will exit
+too many thread, 0x140616792782592 will exit
+too many thread, 0x140616801175296 will exit
+too many thread, 0x140616809568000 will exit
+accept an client
+in datahandle: {"num":0,"typecode":2020}
+typecode:2020
+too many thread, 0x140617313130240 will exit
+send data:{"list":[{"img":8,"title":"年轻的饮食秘诀","writer":"langya"},{"img":2,"title":"长皱纹了怎么办","writer":"langya"},{"img":0,"title":"脸部按摩法","writer":"langya"},{"img":11,"title":"长痘痘怎么办","writer":"langya"},{"img":12,"title":"想睡觉了","writer":"langya"},{"img":0,"title":"VSmile","writer":"QQ"},{"img":1,"title":"瘦脸美肤","writer":"CQ"},{"img":4,"title":"美美的","writer":"小心翼翼"}],"typecode":2030}
+
+in datahandle: {"password":"123456789","username":"langya","typecode":20}
+typecode:20
+login success!
+update users set socket='19699696' where username='langya'
+langya
+update scores set scores='15' where username='langya'
+update scores success!
+select * from qun1_record order by id DESC
+There are new chat message!
+select * from qun3_record order by id DESC
+select * from qun2_record order by id DESC
+map size:1
+num:0
+thread 0x140617329915648  is waitting
+send data:{"age":0,"facetype":0,"headpicID":0,"sex":0,"typecode":30,"username":"langya"}
+
+send data:{"score":15,"typecode":4010}
+
+send data:{"group_list":[{"group_name":"vsmile","num":35}],"typecode":1211}
+
+in datahandle: {"num":0,"username":"langya","typecode":1000}
+typecode:1000
+thread 0x140617304737536  is waitting
+send data:{"group_list":[{"img":0,"infor":"开心就笑笑，不开心就待会儿笑笑","name":"vsmile","type":30},{"img":1,"infor":"aaaaaaaaaaaaaaaaaaaaaa","name":"sleepy","type":3},{"img":0,"infor":"习惯-itoCKhcPCkt","name":"wendygroup","type":35}],"typecode":1010}
+
+in datahandle: {"group_name":"vsmile","username":"langya","typecode":1201}
+typecode:1201
+select * from qun1_record order by id DESC
+There are new chat message!
+select * from qun3_record order by id DESC
+select * from qun2_record order by id DESC
+map1 size:1
+select * from qun1_record order by id DESC
+sssasdfasdasd
+eeeeeeeeeeee
+int dkdkdkfsdfasdfadf
+speaker:hahaha
+row3 aaaaaaaaaaaaaa
+1111111
+222222222222222
+333333333333
+sssssssssssssssddddddddddd
+update user_qun set readmsgid='31' where username='langya' && qunname='vsmile'
+update user_qun readmsgid success!
+thread 0x140617296344832  is waitting
+send data:{"group_name":"vsmile","recordlist":[{"img":2,"msg":"hello","time":"Wed May 20 02:30:25 2015\n","username":"hahaha"}],"typecode":1212}
+
+in datahandle: {"group_name":"vsmile","num":1,"username":"langya","typecode":1202}
+typecode:1202
+aaaaaaaa
+qunname:vsmile
+strcmp:-3
+strcmp:1
+strcmp:0
+row[0]81
+recordno: qun1_record
+bbbbbbb
+select * from qun1_record
+query chat record success!
+eeeeeeeeeeeeeee
+i: 1
+i>=num
